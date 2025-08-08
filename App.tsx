@@ -1,18 +1,14 @@
-
-import { StyleSheet, Text, View } from 'react-native';
-import { Home } from './src/Screens/Home/Home';
+import { StyleSheet } from "react-native";
+import { NavigationContainer } from "@react-navigation/native";
+import React from "react";
+import { BottomTabsRoutes } from "./src/Routes/Routes-Screen";
 
 export default function App() {
   return (
-    <Home></Home>
+    <NavigationContainer>
+      <BottomTabsRoutes />
+    </NavigationContainer>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+
