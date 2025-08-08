@@ -1,4 +1,5 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native';
+
 
 export const styles = StyleSheet.create({
   container: {
@@ -6,7 +7,7 @@ export const styles = StyleSheet.create({
     backgroundColor: "#1e1e2f",
     alignItems: "center",
     justifyContent: "flex-start",
-    paddingTop: 170,
+    paddingTop: 80,
   },
   image: {
     width: 180,
@@ -16,29 +17,33 @@ export const styles = StyleSheet.create({
     borderColor: "#fff",
     marginBottom: 20,
   },
-  text: {
+  name: {
     fontSize: 28,
     fontWeight: "600",
     color: "#ffffff",
     textAlign: "center",
     marginBottom: 40,
   },
-  iconButton: {
+  skillsContainer: {
+    width: "85%",
+  },
+  skillRow: {
     flexDirection: "row",
+    justifyContent: "space-between",
     alignItems: "center",
     backgroundColor: "#29293d",
     paddingVertical: 12,
-    paddingHorizontal: 25,
+    paddingHorizontal: 15,
     borderRadius: 8,
-    marginVertical: 10,
-    elevation: 3,
+    marginBottom: 12,
+    elevation: 2,
   },
-  icon: {
-    marginRight: 10,
-  },
-  buttonText: {
-    color: "#fff",
+  skillText: {
     fontSize: 16,
     fontWeight: "500",
+    color: "#ffffff",
+  },
+  starsContainer: {
+    flexDirection: "row",
   },
 });
