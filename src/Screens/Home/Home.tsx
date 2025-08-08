@@ -29,7 +29,7 @@ export function Home() {
         style={styles.iconButton}
         onPress={() =>
           Linking.openURL(
-            "mailto:guilhermemiranda419@gmail.com?subject=Portfólio&body=Olá, Guilherme! Gostaria de entrar em contato com você."
+            "mailto:guilhermemiranda419@gmail.com?subject=Oportunidade&body=Olá, Guilherme! Gostaria de entrar em contato com você."
           )
         }
       >

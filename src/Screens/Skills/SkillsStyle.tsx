@@ -1,5 +1,4 @@
-import { StyleSheet } from 'react-native';
-
+import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
   container: {
@@ -7,11 +6,11 @@ export const styles = StyleSheet.create({
     backgroundColor: "#1e1e2f",
     alignItems: "center",
     justifyContent: "flex-start",
-    paddingTop: 80,
+    paddingTop: 60,
   },
   image: {
-    width: 180,
-    height: 180,
+    width: 170,
+    height: 170,
     borderRadius: 90,
     borderWidth: 4,
     borderColor: "#fff",
@@ -22,7 +21,7 @@ export const styles = StyleSheet.create({
     fontWeight: "600",
     color: "#ffffff",
     textAlign: "center",
-    marginBottom: 40,
+    marginBottom: 20,
   },
   skillsContainer: {
     width: "85%",
