@@ -20,10 +20,12 @@ I'm constantly learning and building — from mobile apps to APIs — and always
 
 - ⚛️ **React Native**
 - 🔷 **TypeScript**
+- 🟨 **JavaScript**
+- ☕ **Java & Spring Boot**
 - 🟩 **Node.js**
 - 🚀 **Fastify & Express**
 - 🐘 **PostgreSQL & SQLite**
-- 📱 **Mobile UI/UX Design**
+- ☁️ **AWS**
 - 🌐 **RESTful APIs**
 - 🔧 Git & GitHub
 
@@ -33,9 +35,9 @@ I'm constantly learning and building — from mobile apps to APIs — and always
 
 Let's connect!
 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/seu-usuario)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/guilherm4/)
 - 💻 [**GitHub**](https://github.com/Guimirand4)
-- ✉️ **guilhermemirandadev@gmail.com**
+- ✉️ **guilhermemiranda419@gmail.com**
 
 ---
 
